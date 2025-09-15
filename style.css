@@ -128,7 +128,7 @@ header > h1 {
   text-align: center;
   color: rgb(255, 255, 255);
   font-weight: bold;
-  font-size: 0.2px;
+  font-size: 5px;
 }
 
 #action-messag:hover{
@@ -137,4 +137,5 @@ header > h1 {
   transform: scale(2);
 
 }
+
 
